@@ -1,4 +1,4 @@
-# Project_UAS: Sistem Manajemen Penjualan (Contoh Judul)
+# Project_UAS: Sistem Manajemen Penjualan Musik 
 
 Ini adalah repositori untuk Proyek Ujian Akhir Semester (UAS). Proyek ini adalah aplikasi desktop berbasis Java Swing untuk mengelola data barang, supplier, dan transaksi penjualan, dibangun menggunakan Apache NetBeans IDE.
 
@@ -16,7 +16,7 @@ Ini adalah repositori untuk Proyek Ujian Akhir Semester (UAS). Proyek ini adalah
 
 Berikut adalah panduan untuk meng-clone dan menjalankan proyek ini di lingkungan lokal Anda.
 
-### 1. Prasyarat (Prerequisites)
+### 1. Prasyarat 
 
 Pastikan Anda sudah menginstal perangkat lunak berikut:
 
