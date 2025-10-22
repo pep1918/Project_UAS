@@ -9,8 +9,8 @@ Ini adalah repositori untuk Proyek Ujian Akhir Semester (UAS). Proyek ini adalah
 * **Database:** MySQL (via XAMPP)
 * **Library:**
     * MySQL JDBC Driver
-    * JCalendar (untuk komponen kalender)
-    * [Tambahkan library lain jika ada, misal: JasperReports]
+    * JCalendar 
+    * JasperReports
 
 ## 🚀 Langkah-langkah Instalasi dan Menjalankan Proyek
 
